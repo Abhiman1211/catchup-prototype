@@ -3,9 +3,9 @@ Catch up prototype is a website which provides you with a great in-home tutoring
 
 TEAM MEMBERS
 <br>
-1. <a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
+1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
 <br>
-2. <a href="https://github.com/Anshikasinha18">Anshika Sinha </a>
+2.)<a href="https://github.com/Anshikasinha18">Anshika Sinha </a>
 
 
 
